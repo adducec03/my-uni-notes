@@ -1,5 +1,5 @@
 # Internet and Data Centers
-### Laurea Magistrale in Ingegneria Informatica | Universit? degli Studi Roma Tre
+### Laurea Magistrale in Ingegneria Informatica | Università degli Studi Roma Tre
 
 Questo spazio contiene il materiale didattico, gli appunti e le esercitazioni relative all'architettura di Internet, alle tecnologie di routing e ai data center.
 
@@ -7,15 +7,16 @@ Questo spazio contiene il materiale didattico, gli appunti e le esercitazioni re
 
 ## Indice del Corso
 
-Il programma affronta l'infrastruttura di rete, dal routing intra- e inter-dominio fino ai servizi distribuiti su larga scala:
+Il programma affronta l'infrastruttura di rete, dal routing intra-dominio e inter-dominio fino ai servizi distribuiti su larga scala:
 
 ### 1. Introduzione
 * **Presentazione del corso**
 * **Internet, Data Center e Cloud:** Introduzione alla struttura di Internet e al rapporto tra Internet, Data Center e Cloud
-* **Infrastruttura nazionale:** Il Polo Strategico Nazionale e il Sistema Pubblico di Connettivit?
+* **Infrastruttura nazionale:** Il Polo Strategico Nazionale e il Sistema Pubblico di Connettività
 
 ### 2. Metodologie e Tecnologie di Routing
-* **Routing di livello tre:** Generalit? sugli algoritmi di instradamento per l'infrastruttura di rete fissa
+* **Routing di livello tre:**
+    * Generalità sugli algoritmi di instradamento per l'infrastruttura di rete fissa
     * Algoritmi Distance Vector
     * Algoritmi Link-State-Packet
     * Protocolli di instradamento
@@ -33,7 +34,7 @@ Il programma affronta l'infrastruttura di rete, dal routing intra- e inter-domin
 * **Transizione:** Meccanismi di transizione IPv4-IPv6
 
 ### 4. Routing Interdominio
-* **BGP:** Border Gateway Protocol, BGP pitfalls e scalabilit?
+* **BGP:** Border Gateway Protocol, BGP pitfalls e scalabilità
 * **Gerarchia di Internet:** La gerarchia di Internet e anomalie in Internet
 * **Sicurezza del routing:** Introduzione ad RPKI (trasparenze del RIPE NCC)
 * **MPLS:** Routing di un ISP basato su MPLS
@@ -80,14 +81,14 @@ Il programma affronta l'infrastruttura di rete, dal routing intra- e inter-domin
 
 ---
 
-## ?? Struttura della Repository
+##  Struttura della Repository
 
 * `/sections`: Appunti teorici divisi per capitoli.
-* `/ex`: Esercitazioni pratiche con Kathar? su routing e data center.
+* `/ex`: Esercitazioni pratiche con Katharà su routing e data center.
 
 ---
 
 ## ?? Risorse Utili
 
-* **Ambiente di laboratorio:** [Kathar?](https://www.kathara.org/) per la simulazione di reti e protocolli di routing.
+* **Ambiente di laboratorio:** [Katharà](https://www.kathara.org/) per la simulazione di reti e protocolli di routing.
 * **Documentazione:** Materiale di riferimento del corso e slide ufficiali.
