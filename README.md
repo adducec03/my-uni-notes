@@ -1,4 +1,4 @@
-# Archivio Appunti — Ingegneria Informatica
+# Archivio Appunti
 
 ### Università degli Studi Roma Tre
 
