@@ -38,8 +38,8 @@ Laboratori pratici realizzati con **[Kathará](https://www.kathara.org/)**, ambi
 
 ## 📂 Struttura della Repository
 
-* `/ex`: Appunti teorici divisi per capitoli (un PDF per sezione).
-* `/sections`: Laboratori Kathará su connettività, IPv4/IPv6, DNS e HTTP.
+* `/sections`: Appunti teorici divisi per capitoli (un PDF per sezione).
+* `/ex`: Laboratori Kathará su connettività, IPv4/IPv6, DNS e HTTP.
 * `Reti di Calcolatori.pdf`: Materiale di riferimento complessivo del corso.
 
 ---

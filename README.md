@@ -23,7 +23,6 @@ Materia/
 | **`/sections`** | Appunti teorici, uno per capitolo (file PDF numerati). |
 | **`/ex`** | Esercitazioni, esami svolti e laboratori pratici. |
 
-> **Nota:** in [Reti di Calcolatori](Reti%20di%20Calcolatori/README.md) la teoria è in `/ex` e i laboratori Kathará in `/sections`.
 
 ---
 
